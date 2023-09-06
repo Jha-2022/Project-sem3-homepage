@@ -34,7 +34,7 @@
 
     .background{
     
-        background: rgba(0,0,0,0.5) url('../img/city2.jpg');
+        background: rgba(0,0,0,0.5) url('city2.jpg');
         background-size: cover;
         background-blend-mode: darken;
     
